@@ -1,0 +1,46 @@
+header {
+    padding: 46px 72px 46px 73px;
+    background-color: #1F2326;
+
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.font {
+    color: white;
+    width: 133px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    font-family: 'Montserrat Medium';
+}
+.font svg {
+    margin-top: 5px;
+    margin-left: 13px;
+}
+.line {
+    border: 2px solid white;
+    margin-left: 60px;
+    height: 42px;
+}
+
+.logo {
+    margin-left: 60px;
+}
+.menu {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.user {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.img {
+    border-radius: 50%;
+    margin-right: 8px;
+}

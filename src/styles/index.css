@@ -49,3 +49,175 @@ footer {
     width: 200px;
     height: 1015px;
 }
+
+
+.cards, .people {
+    display: flex;
+    flex-direction: row;
+}
+
+.phoenix {
+    margin-left: 324px;
+    margin-top: 120px;
+}
+
+.jett, .sova, .sage {
+    margin-left: 107px;
+    margin-top: 120px;
+}
+
+.textphoenix {
+    font-size: 72px;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 294px;
+    left: 490px;
+    width: 514px;
+    height: 94px;
+    font-family: "Druk Wide Web Super Regular";
+    color: white;
+}
+
+.cantryfoenix {
+    font-size: 24px;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 294px;
+    left: 530px;
+    width: 514px;
+    height: 94px;
+    font-family: "Druk Wide Web Super Regular";
+    color: #FF4656;
+}
+
+.cantryjett {
+    font-size: 24px;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 294px;
+    left: 1080px;
+    width: 514px;
+    height: 94px;
+    font-family: "Druk Wide Web Super Regular";
+    color: #FF4656;
+}
+
+
+.textcards {
+    font-size: 72px;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 294px;
+    left: 1047px;
+    width: 514px;
+    height: 94px;
+    font-family: "Druk Wide Web Super Regular";
+    color: white;
+}
+
+.textsova {
+    font-size: 72px;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 294px;
+    left: 1590px;
+    width: 514px;
+    height: 94px;
+    font-family: "Druk Wide Web Super Regular";
+    color: white;
+}
+
+.cantrysova {
+    font-size: 24px;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 294px;
+    left: 1620px;
+    width: 514px;
+    height: 94px;
+    font-family: "Druk Wide Web Super Regular";
+    color: #FF4656;
+}
+
+.textsage {
+    font-size: 72px;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 294px;
+    left: 2140px;
+    width: 514px;
+    height: 94px;
+    font-family: "Druk Wide Web Super Regular";
+    color: #1F2326;
+}
+
+.sage {
+    width: 415px;
+    overflow: hidden;
+}
+
+.cantrysage {
+    font-size: 24px;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 294px;
+    left: 2180px;
+    width: 514px;
+    height: 94px;
+    font-family: "Druk Wide Web Super Regular";
+    color: #FF4656;
+}
+
+.svgphoenix {
+    position: absolute;
+    top: 1175px;
+    left: 547px;
+}
+
+.svgphoenixone {
+    position: absolute;
+    top: 1193px;
+    left: 585px;
+}
+
+.svgjett {
+    position: absolute;
+    top: 1175px;
+    left: 1094px;
+}
+
+.svgjettone {
+    position: absolute;
+    top: 1200px;
+    left: 1130px;
+}
+.svgsova {
+    position: absolute;
+    top: 1175px;
+    left: 1650px;
+}
+
+.svgsovaone {
+    position: absolute;
+    top: 1200px;
+    left: 1690px;
+}
+.svgsage {
+    position: absolute;
+    top: 1175px;
+    left: 2190px;
+}
+
+.svgsageone {
+    position: absolute;
+    top: 1200px;
+    left: 2245px;
+}

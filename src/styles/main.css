@@ -1,0 +1,229 @@
+main {
+    height: 1499px;
+    background-image: url('../images/background.png');
+    background-size: contain;
+    background-color: rgba(255, 70, 86, 1);
+    
+}
+
+.square {
+    width: 48px;
+    height: 40px;
+    background-color: rgba(31, 35, 38, .8);
+    padding: 20px 16px 20px 16px;
+}
+
+.sage .imgpeople {
+    width: 415px;
+    height: 990px;
+}
+
+.text {
+    font-size: 156px;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 0;
+    left: 270px;
+    width: 1015px;
+    height: 210px;
+    font-family: "Druk Wide Web Super Regular";
+    color: white;
+}
+
+.agents {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    padding-top: 120px;
+    padding-left: 100px;
+    position: relative;
+    width: 200px;
+    height: 1015px;
+}
+
+
+.cards, .people {
+    display: flex;
+    flex-direction: row;
+}
+
+.phoenix {
+    margin-left: 324px;
+    margin-top: 120px;
+}
+
+.jett, .sova, .sage {
+    margin-left: 107px;
+    margin-top: 120px;
+}
+
+.textphoenix {
+    font-size: 72px;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 294px;
+    left: 490px;
+    width: 514px;
+    height: 94px;
+    font-family: "Druk Wide Web Super Regular";
+    color: white;
+}
+
+.cantryfoenix {
+    font-size: 24px;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 294px;
+    left: 530px;
+    width: 514px;
+    height: 94px;
+    font-family: "Druk Wide Web Super Regular";
+    color: #FF4656;
+}
+
+.cantryjett {
+    font-size: 24px;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 294px;
+    left: 1080px;
+    width: 514px;
+    height: 94px;
+    font-family: "Druk Wide Web Super Regular";
+    color: #FF4656;
+}
+
+
+.textcards {
+    font-size: 72px;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 294px;
+    left: 1047px;
+    width: 514px;
+    height: 94px;
+    font-family: "Druk Wide Web Super Regular";
+    color: white;
+}
+
+.textsova {
+    font-size: 72px;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 294px;
+    left: 1590px;
+    width: 514px;
+    height: 94px;
+    font-family: "Druk Wide Web Super Regular";
+    color: white;
+}
+
+.cantrysova {
+    font-size: 24px;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 294px;
+    left: 1620px;
+    width: 514px;
+    height: 94px;
+    font-family: "Druk Wide Web Super Regular";
+    color: #FF4656;
+}
+
+.textsage {
+    font-size: 72px;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 294px;
+    left: 2140px;
+    width: 514px;
+    height: 94px;
+    font-family: "Druk Wide Web Super Regular";
+    color: #1F2326;
+}
+
+.sage {
+    width: 415px;
+    overflow: hidden;
+}
+
+.cantrysage {
+    font-size: 24px;
+    transform: rotate(90deg);
+    transform-origin: left;
+    position: absolute;
+    top: 294px;
+    left: 2180px;
+    width: 514px;
+    height: 94px;
+    font-family: "Druk Wide Web Super Regular";
+    color: #FF4656;
+}
+
+.svgphoenix {
+    position: absolute;
+    top: 1175px;
+    left: 547px;
+}
+
+.svgphoenixone {
+    position: absolute;
+    top: 1193px;
+    left: 585px;
+}
+
+.svgjett {
+    position: absolute;
+    top: 1175px;
+    left: 1094px;
+}
+
+.svgjettone {
+    position: absolute;
+    top: 1200px;
+    left: 1130px;
+}
+.svgsova {
+    position: absolute;
+    top: 1175px;
+    left: 1650px;
+}
+
+.svg-sova {
+    position: absolute;
+    top: 1175px;
+    width: 440px;
+    height: 110px;
+    background: #1F2326;
+    border: 2px solid #F8F8F8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    left: 1650px;
+}
+
+.svg-sage {
+    position: absolute;
+    top: 1175px;
+    left: 2190px;
+    width: 366px;
+    height: 110px;
+    background: white;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+}
+
+.svgsageone {
+    width: 323px;
+}
